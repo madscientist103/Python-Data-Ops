@@ -1,4 +1,3 @@
-# Clayton@RaezionSecurity
 # The purpose of this code is to capture the essentials necessary to read and write
 # data from csv and JSON file strucutres, using a dictionary within local memory.
 
